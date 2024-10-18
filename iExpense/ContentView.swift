@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Day 36 Using @State with classes - !Expense SwiftUI
 @Observable
 class User {
     var firstName = "Bilbo"
