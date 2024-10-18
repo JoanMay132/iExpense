@@ -6,8 +6,10 @@
 //
 
 import SwiftUI
-
+import Observation
 // Day 36 Using @State with classes - !Expense SwiftUI
+
+// Day 36 - Sharing SwiftUI state with @Observable
 @Observable
 class User {
     var firstName = "Bilbo"
